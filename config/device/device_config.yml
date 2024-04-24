@@ -1,0 +1,13 @@
+:caps:
+  platformName: "Android"
+  deviceName: "Test Automation"
+  app: ""
+  noReset: false
+  fullReset: false
+  autoAcceptAlerts: true
+  platformVersion: ""
+  automationName: "UiAutomator2"
+  udid: ""
+
+:appium_lib:
+  server_url: "http://127.0.0.1:4723/"

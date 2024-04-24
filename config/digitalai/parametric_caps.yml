@@ -1,0 +1,14 @@
+:caps:
+  testName: "Digitalai Android Test Automation"
+  accessKey: ""
+  app: ""
+  udid: ""
+  platformName: "Android"
+  autoAcceptAlerts: true
+  noReset: false
+  fullReset: false
+  deviceCleanup: true
+  appiumVersion: 1.22.3
+
+:appium_lib:
+  server_url: ""
